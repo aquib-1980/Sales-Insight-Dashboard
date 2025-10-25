@@ -1,3 +1,6 @@
+**View the interactive dashboard:** https://app.powerbi.com/groups/me/reports/fb448cd8-397b-4609-9bec-045a9c76e374/83935e0f887725c5dc34?experience=power-bi
+
+
 #Super Store Sales Dashboard
 
 **Project Overview**
